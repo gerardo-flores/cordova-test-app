@@ -1,8 +1,4 @@
 # Mac
 .DS_Store
 
-# iOS
-platforms/ios/
 
-# browser
-platforms/browser/
