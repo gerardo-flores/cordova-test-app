@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.dcpm.testapp"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.dcpm.testapp"
         }
     },
     "dependent_plugins": {}

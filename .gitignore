@@ -6,3 +6,6 @@ platforms/ios/
 
 # browser
 platforms/browser/
+
+# plugins
+plugins/

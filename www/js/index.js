@@ -27,6 +27,11 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+
+        document.querySelector("#beep").addEventListener("touchend", function() {
+            console.log("Beep");
+            navigator.notification.beep(2);
+        }, false);
     }
 };
 
